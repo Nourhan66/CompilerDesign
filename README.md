@@ -1,4 +1,4 @@
-# CompilerDesign
+## CompilerDesign
 
 This is a simple compiler designed in Java for a basic programming language. It includes a scanner, parser, and token classes for lexical analysis and parsing.
 
