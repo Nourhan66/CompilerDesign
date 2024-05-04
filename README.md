@@ -17,10 +17,10 @@ Through this project, developers can gain insights into the inner workings of co
 - Error handling for syntax errors and infinite loops
 
 # Usage
-1- Place your code in a text file (e.g., code.txt) in the project directory.
-2- Open **Main.java** and modify the filePath variable to point to your code file.
-3- Run **Main.java** to compile and execute your code.
+1. Place your code in a text file (e.g., code.txt) in the project directory.
+2. Open **Main.java** and modify the filePath variable to point to your code file.
+3. Run **Main.java** to compile and execute your code.
 
 We hope you enjoy exploring the Simple Compiler Design project as much as we enjoyed creating it.
- Happy coding :)
+ **Happy coding :)**
 
