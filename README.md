@@ -10,11 +10,11 @@ The compiler can tokenize input code, parse it to build a syntax tree, and handl
 Through this project, developers can gain insights into the inner workings of compilers and deepen their understanding of fundamental programming language concepts.
 
 # Features
-. Lexical analysis (Scanning) to tokenize input code
-. Parsing to build a syntax tree
-. Support for basic control structures like if, else, for, and while loops
-. Arithmetic expressions parsing
-. Error handling for syntax errors and infinite loops
+-  Lexical analysis (Scanning) to tokenize input code
+- Parsing to build a syntax tree
+- Support for basic control structures like if, else, for, and while loops
+- Arithmetic expressions parsing
+- Error handling for syntax errors and infinite loops
 
 # Usage
 1- Place your code in a text file (e.g., code.txt) in the project directory.
